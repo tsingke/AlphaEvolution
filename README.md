@@ -29,7 +29,10 @@ the performance of AE. Numerical optimization experiment was conducted, involvin
 optimization algorithms, and the results were validated in terms of convergence and statistical
 signiﬁcance. Additionally, it was applied to the multiple sequence alignment problem to verify its
 practical value. The evidence indicates that AE is simple and powerful, particularly in terms of
-usability, reliability, adaptability, search balance, and escaping local optima
+usability, reliability, adaptability, search balance, and escaping local optima.
+The source code of the GO algorithm is publicly available at [https://github.com/tsingke/AlphaEvolution](https://github.com/tsingke/AlphaEvolution).
+
+ 
 
 ## 2. AE Pseudocode (MATLAB)
 
