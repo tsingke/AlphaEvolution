@@ -129,8 +129,9 @@ end % end while
 gbesthistory=gbesthistory(1:MaxFEs);
 end
 ```
+`Note: This paper has been submitted to Elseviewer Journal "Knowledge-Based Systems".
+The source code mentioned in the paper is only for the purpose of article review and cannot be used for any other purposes without the author's permission.`
 
-`Note: This paper has been submitted to Elseviewer Journal "Knowledge-Based Systems. The source code mentioned in the paper is only for the purpose of article review and cannot be used for any other purposes without the author's permission.`
 
 ## Acknowledgements
 
