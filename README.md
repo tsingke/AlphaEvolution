@@ -43,7 +43,8 @@ The source code of the AE algorithm is publicly available at [https://github.com
 ![search direction](./AE/AEbehavior.png)
 
 ## 4. A List of one hundred compared algorithms
-![visulization](./AE/Algorithms.png)
+![ComparedAlgorithms](./AE/Algorithms.png)
+![ConvergenceCurves](./AE/AEcurves.png)
 
 
 ## 5. The MATLAB Code of AE
