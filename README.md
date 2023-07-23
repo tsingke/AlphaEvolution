@@ -2,15 +2,16 @@
 **Alpha Evolution**: A simple and powerful optimization algorithm to promote optimization beyond metaphors
 
 ```
- Authors：Hao Gao(1), Qingke Zhang*(1), Zhi-Hui Zhan(2), Huaxiang Zhang(1) 
+ Authors：Hao Gao(1), Qingke Zhang*(1), Zhi-Hui Zhan(2), Huaxiang Zhang(1)
+```
 
 (1) School of Information Science and Engineering, Shandong Normal University, Jinan 250358, China
 
 (2) School of Computer Science and Engineering, South China University of Technology, Guangzhou 510641, China
 
-Corresponding Author: Qingke Zhang , Email: tsingke@sdnu.edu.cn , Tel :  +86-13953128163
+Corresponding Author: **Qingke Zhang** , Email: tsingke@sdnu.edu.cn , Tel :  +86-13953128163
 
-```
+
 
 ## 1. Introduction
 The outburst of metaphor-based metaheuristics has dwarfed the Cambrian explosion. Metaphors
