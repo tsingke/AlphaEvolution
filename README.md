@@ -39,7 +39,7 @@ usability, reliability, adaptability, search balance, and escaping local optima
 ![visulization](./AE/Algorithms.png)
 
 
-##  The MATLAB Code of AE
+## 5. The MATLAB Code of AE
 ```MATLAB
 function [gbestx,gbestfitness,gbesthistory]=AE(N,D,ub,lb,MaxFEs,Func,FuncId)
 % Algorithm Name: Alpha Evolution Algorithm (AE).
@@ -135,7 +135,7 @@ end
 The source code mentioned in the paper is only for the purpose of article review and cannot be used for any other purposes without the author's permission.`
 
 
-## Acknowledgements
+## 6. Acknowledgements
 
 We would like to express our sincere gratitude to the anonymous reviewers for taking the time to review our article. 
 This work is supported by the National Natural Science Foundation of China (No. 62006144) , the Major Fundamental Research Project of Shandong, China(No. ZR2019ZD03) , and the Taishan Scholar Project of Shandong, China (No.ts20190924).
