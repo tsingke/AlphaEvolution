@@ -25,7 +25,7 @@ signiﬁcance. Additionally, it was applied to the multiple sequence alignment p
 practical value. The evidence indicates that AE is simple and powerful, particularly in terms of
 usability, reliability, adaptability, search balance, and escaping local optima
 
-## AE pseudocode
+## AE pseudocode (MATLAB)
 
 <img src="./AE/AEcode.png" width='400' height='575' >
 
@@ -33,7 +33,7 @@ usability, reliability, adaptability, search balance, and escaping local optima
 
 ![search direction](./AE/AEbehavior.png)
 
-![visulization](./AE/AEComparedAlgorithms.jpg)
+![visulization](./AE/AEComparedAlgorithms.png)
 
 
 ##  The MATLAB code of AE
