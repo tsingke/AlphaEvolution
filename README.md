@@ -7,7 +7,7 @@ Alpha Evolution: A simple and powerful optimization algorithm to promote optimiz
 (2) School of Computer Science and Engineering, South China University of Technology, Guangzhou 510641, China
 
 
-## Introduction
+## 1. Introduction
 The outburst of metaphor-based metaheuristics has dwarfed the Cambrian explosion. Metaphors
 themselves are not well characterized by the resulting computational algorithms, which often com-
 pound the diﬃculty of understanding them. Hence, in this work, a simple yet powerful algorithm for
@@ -25,18 +25,19 @@ signiﬁcance. Additionally, it was applied to the multiple sequence alignment p
 practical value. The evidence indicates that AE is simple and powerful, particularly in terms of
 usability, reliability, adaptability, search balance, and escaping local optima
 
-## AE pseudocode (MATLAB)
+## 2. AE Pseudocode (MATLAB)
 
 <img src="./AE/AEcode.png" width='400' height='575' >
 
-## AE Search preview
+## 3. AE Search Behavior Overview
 
 ![search direction](./AE/AEbehavior.png)
 
-![visulization](./AE/AEComparedAlgorithms.png)
+## 4. A List of one hundred compared algorithms
+![visulization](./AE/Algorithms.png)
 
 
-##  The MATLAB code of AE
+##  The MATLAB Code of AE
 ```MATLAB
 function [gbestx,gbestfitness,gbesthistory]=AE(N,D,ub,lb,MaxFEs,Func,FuncId)
 % Algorithm Name: Alpha Evolution Algorithm (AE).
@@ -129,7 +130,11 @@ gbesthistory=gbesthistory(1:MaxFEs);
 end
 ```
 
-*Note: This paper has been submitted to Elseviewer Journal "Knowledge-Based Systems. The source code mentioned in the paper is only for the purpose of article review and cannot be used for any other purposes without the author's permission.
+`Note: This paper has been submitted to Elseviewer Journal "Knowledge-Based Systems. The source code mentioned in the paper is only for the purpose of article review and cannot be used for any other purposes without the author's permission.`
 
 ## Acknowledgements
+
+We would like to express our sincere gratitude to the anonymous reviewers for taking the time to review our article. 
 This work is supported by the National Natural Science Foundation of China (No. 62006144) , the Major Fundamental Research Project of Shandong, China(No. ZR2019ZD03) , and the Taishan Scholar Project of Shandong, China (No.ts20190924).
+
+
