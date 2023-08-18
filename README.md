@@ -11,25 +11,19 @@
 
 Corresponding Author: **Qingke Zhang** , Email: tsingke@sdnu.edu.cn , Tel :  +86-13953128163
 
+## 1. 
+Intelligent optimization algorithms are eﬃcient stochastic search techniques widely used to solve
+real-world optimization problems. However, they are limited by their ability to extract and utilize
+eﬃcient evolutionary information hidden in the candidate solutions. Moreover, they often use
+multiple operators to update solutions, which may make the search more complex. To solve these
+problems eﬀectively, this work proposes a novel intelligent optimization algorithm called alpha
+evolution (AE). In AE, the unique core operator is designed to generate new candidate solutions
+based on matrices.AE is compared with 100 optimization algorithms on the
+CEC’17 test suite. The results were validated in terms of convergence and statistical signiﬁcance.
+Furthermore, it was applied to multiple sequence alignment and engineering design problems
+to verify its practical value. The evidence indicates that AE is competitive in exploration,
+exploitation, convergence ability, and escaping local optima.
 
-
-## 1. Introduction
-The outburst of metaphor-based metaheuristics has dwarfed the Cambrian explosion. Metaphors
-themselves are not well characterized by the resulting computational algorithms, which often com-
-pound the diﬃculty of understanding them. Hence, in this work, a simple yet powerful algorithm for
-metaphor-less optimization, known as alpha evolution (AE), is designed with the aim of enabling
-optimization to transcend the traps posed by metaphors. In AE, the approximate optimal state of
-the system is inferred based on sampled matrices. Two cumulative evolutionary paths are used to
-establish generational connections for this inference in order to locate the starting point of evolution.
-The introduction of new information from the solution set enhances the eﬀectiveness and stability
-of the inference. Furthermore, the decay factor dynamically adjusts the evolutionary mode of AE
-to balance exploration and exploitation. By analyzing search bias, invariance, scalability, parameter
-sensitivity, search behavior, balance, and complexity, the experiments comprehensively evaluated
-the performance of AE. Numerical optimization experiment was conducted, involving AE and 100
-optimization algorithms, and the results were validated in terms of convergence and statistical
-signiﬁcance. Additionally, it was applied to the multiple sequence alignment problem to verify its
-practical value. The evidence indicates that AE is simple and powerful, particularly in terms of
-usability, reliability, adaptability, search balance, and escaping local optima.
 The source code of the AE algorithm is publicly available at [https://github.com/tsingke/AlphaEvolution](https://github.com/tsingke/AlphaEvolution).
 
  
