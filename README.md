@@ -11,7 +11,7 @@
 
 Corresponding Author: **Qingke Zhang** , Email: tsingke@sdnu.edu.cn , Tel :  +86-13953128163
 
-## 1. 
+## 1. AE Introduction
 Intelligent optimization algorithms are eﬃcient stochastic search techniques widely used to solve
 real-world optimization problems. However, they are limited by their ability to extract and utilize
 eﬃcient evolutionary information hidden in the candidate solutions. Moreover, they often use
