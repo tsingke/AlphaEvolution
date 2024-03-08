@@ -1,5 +1,5 @@
 # AlphaEvolution
-**Alpha Evolution**: A simple and powerful optimization algorithm to promote optimization beyond metaphors
+**Alpha Evolution**: Alpha Evolution: A novel evolutionary algorithm efficiently extracting and utilizing information in global optimization
 
 ```
  Authors：Hao Gao(1), Qingke Zhang*(1)
