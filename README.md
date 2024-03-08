@@ -122,7 +122,7 @@ gbesthistory=gbesthistory(1:MaxFEs);
 end
 ```
 `Note: This paper has been submitted to Elseviewer Journal and in reviewing.
-The source code mentioned in the paper is only for the purpose of article review and cannot be used for any other purposes without the authors' specific prior written permission.`
+The source code mentioned in the paper is only for the purpose of article review . Thanks for your understanding and reading.`
 
 
 
