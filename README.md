@@ -2,7 +2,7 @@
 **Alpha Evolution**: A simple and powerful optimization algorithm to promote optimization beyond metaphors
 
 ```
- Authors：Hao Gao(1), Qingke Zhang*(1), Zhi-Hui Zhan(2), Huaxiang Zhang(1)
+ Authors：Hao Gao(1), Qingke Zhang*(1)
 ```
 
 (1) School of Information Science and Engineering, Shandong Normal University, Jinan 250358, China
@@ -12,17 +12,7 @@
 Corresponding Author: **Qingke Zhang** , Email: tsingke@sdnu.edu.cn , Tel :  +86-13953128163
 
 ## 1. AE Introduction
-Intelligent optimization algorithms are eﬃcient stochastic search techniques widely used to solve
-real-world optimization problems. However, they are limited by their ability to extract and utilize
-eﬃcient evolutionary information hidden in the candidate solutions. Moreover, they often use
-multiple operators to update solutions, which may make the search more complex. To solve these
-problems eﬀectively, this work proposes a novel intelligent optimization algorithm called alpha
-evolution (AE). In AE, the unique core operator is designed to generate new candidate solutions
-based on matrices.AE is compared with 100 optimization algorithms on the
-CEC’17 test suite. The results were validated in terms of convergence and statistical signiﬁcance.
-Furthermore, it was applied to multiple sequence alignment and engineering design problems
-to verify its practical value. The evidence indicates that AE is competitive in exploration,
-exploitation, convergence ability, and escaping local optima.
+Metaheuristic algorithms involve information extraction and utilization processes to generate more promising solutions to problems. However, the background of excessive metaphor has led to ambiguity in the computational process. To solve this problem, this paper proposes a novel evolutionary algorithm called alpha evolution (AE). The main difference between AE and similar techniques is its unique alpha operator, which includes the base vector, the random step size, and the adaptive step size.  First, sample candidate solutions to construct the evolution matrix. Then, estimate the population state macroscopically through diagonal or weighted operations of the evolution matrix. To enhance the correlation of estimates for each generation, two evolution paths accumulate the estimate results and ultimately determine the base vector. Second, the composite differential operation constructs the adaptive step size to estimate the problem gradient for accelerating convergence. Finally, the parameter $\alpha$ adaptively adjusts the random step size generated based on search space to balance exploration and exploitation. AE was comprehensively verified regarding its search bias, invariance, scalability, parameter sensitivity, search behavior, qualitative indicators, exploration and exploitation, convergence, statistics, and complexity. In numerical simulation, AE was compared with 106 algorithms on the CEC'17 benchmark announced at the 2017 congress on evolutionary computation (CEC). Furthermore, it was applied to solve multiple sequence alignment and engineering design problems. The evidence shows that AE is competitive in exploration and exploitation, convergence speed and accuracy, and avoiding local optima. Therefore, AE can leverage its reliable and competitive advantages as an algorithmic support for real-world applications. The source code of AE is publicly available at \url{https://github.com/tsingke/AlphaEvolution}.
 
 The source code of the AE algorithm is publicly available at [https://github.com/tsingke/AlphaEvolution](https://github.com/tsingke/AlphaEvolution).
 
