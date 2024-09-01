@@ -6,6 +6,8 @@
  Authors：Hao Gao(1), Qingke Zhang*(1)
 ```
 
+Paper Link：https://doi.org/10.1016/j.engappai.2024.109202
+
 (1) School of Information Science and Engineering, Shandong Normal University, Jinan 250358, China
 
 (2) School of Computer Science and Engineering, South China University of Technology, Guangzhou 510641, China
@@ -122,14 +124,10 @@ end % end while
 gbesthistory=gbesthistory(1:MaxFEs);
 end
 ```
-`Note: This paper has been submitted to Elseviewer Journal and in reviewing.
-The source code mentioned in the paper is only for the purpose of article review . Thanks for your understanding and reading.`
 
 
 
 ## 6. Acknowledgements
-
-**We would like to express our sincere gratitude to the anonymous reviewers for taking the time to review our paper.** 
 
 This work is supported by the National Natural Science Foundation of China (No. 62006144) , the Major Fundamental Research Project of Shandong, China(No. ZR2019ZD03) , and the Taishan Scholar Project of Shandong, China (No.ts20190924).
 
