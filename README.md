@@ -1,6 +1,5 @@
 # AlphaEvolution
-**Alpha Evolution**: Alpha Evolution: A novel evolutionary algorithm efficiently extracting and utilizing information in global optimization
-                     update： Alpha Evolution： An Efficient Optimizer with Evolution Path History and Matrix Generation
+**Alpha Evolution**: An Efficient Optimizer with Evolution Path History and Matrix Generation
 
 ```
  Authors：Hao Gao, Qingke Zhang*
