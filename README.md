@@ -5,12 +5,9 @@
 ```
  Authors：Hao Gao(1), Qingke Zhang*(1)
 ```
-
 Paper Link：https://doi.org/10.1016/j.engappai.2024.109202
 
-(1) School of Information Science and Engineering, Shandong Normal University, Jinan 250358, China
-
-(2) School of Computer Science and Engineering, South China University of Technology, Guangzhou 510641, China
+School of Information Science and Engineering, Shandong Normal University, Jinan 250358, China
 
 Corresponding Author: **Qingke Zhang** , Email: tsingke@sdnu.edu.cn , Tel :  +86-13953128163
 
