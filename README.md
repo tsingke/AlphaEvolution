@@ -3,7 +3,7 @@
                      update： Alpha Evolution： An Efficient Optimizer with Evolution Path History and Matrix Generation
 
 ```
- Authors：Hao Gao(1), Qingke Zhang*(1)
+ Authors：Hao Gao, Qingke Zhang*
 ```
 Paper Link：https://doi.org/10.1016/j.engappai.2024.109202
 
